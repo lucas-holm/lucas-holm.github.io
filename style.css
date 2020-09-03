@@ -91,12 +91,14 @@ a {
         display: grid;
         height: 100vh;
         place-items: center center;
+        background-color: #e5e5e5;
     }
     .container {
         max-width: 720px;
         margin: 0 auto;
         box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
         padding: 5rem 2rem;
+        background-color: #e9ecef;
     }
     /* .header-about .img-container {
         max-width: 20%;
